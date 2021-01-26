@@ -1,0 +1,83 @@
+#: stripe-payments-sendy-asp-sendy/admin/asp-sendy-admin-menu.php:34
+msgid "Sendy Integration"
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:40
+msgid ""
+"Sendy Integration addon is disabled. It must be enabled <a href=\"edit."
+"php?post_type=asp-products&page=stripe-payments-settings#Sendy\" target="
+"\"_blank\">in the settings</a> before you can configure it for this product."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:47
+msgid ""
+"Specify Sendy List ID where users will be added to after successful purchase of this product. Mandatory."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:55
+msgid "Note you need to enter Group Names here, not Group Caterogy Name."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:61
+msgid ""
+"Note: billing address collection is disabled for this product. Customer name "
+"won't be collected and passed to Sendy."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:68
+msgid "Unsubscribe Customer If Subscription Ended"
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:69
+msgid ""
+"Enable this to unsubscribe customer from the list if Stripe subscription "
+"eneded (cancelled or expired)."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:77
+#, php-format
+msgid ""
+"Stripe Subscriptions addon version %s required for unsubscription option to "
+"work properly. You have version %s installed. Please update Stripe "
+"Subscriptions addon."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:92
+msgid ""
+"Sendy: you need to enter your API Key in order for the integration to "
+"work."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:115
+msgid "Sendy Integration Settings"
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:117
+msgid "Enable Sendy Integration"
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:118
+msgid "Enable Sendy integration."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:121
+msgid "Sendy API Key"
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:122
+msgid ""
+"Your Sendy API key. You can use existing key or generate a new one for "
+"this integration from your Sendy account."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:125
+msgid "Disable Double Opt-In"
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:126
+msgid "Disables double opt-in for Sendy signup."
+msgstr ""
+
+#: stripe-payments-sendy-integration/admin/asp-sendy-admin-menu.php:140
+msgid "Sendy"
+msgstr ""
